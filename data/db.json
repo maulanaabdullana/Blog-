@@ -1,0 +1,47 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Artikel pertama",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis eveniet impedit, illo dolorem quo quam consequatur dolor voluptatum natus adipisci fugiat non esse sed maxime rerum atque dignissimos sint? Odit?",
+      "tags": [
+        "php",
+        "web",
+        "js"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artikel kedua",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis eveniet impedit, illo dolorem quo quam consequatur dolor voluptatum natus adipisci fugiat non esse sed maxime rerum atque dignissimos sint? Odit?",
+      "tags": [
+        "php",
+        "web",
+        "js"
+      ]
+    },
+    {
+      "title": "Artikel ketiga",
+      "body": "pemrograman yang menambahkan interaktivitas dan fungsionalitas ke halaman web. Dengan menggunakan JavaScript, Anda dapat mengontrol elemen-elemen halaman web, menanggapi tindakan pengguna, memanipulasi tampilan, mengirim dan menerima data dari server, serta membangun aplikasi web yang kompleks.",
+      "tags": [
+        "php",
+        "html"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Create Blog Vue",
+      "body": "isinyaaaa",
+      "tags": [],
+      "id": 4
+    },
+    {
+      "title": "Atikel contoh",
+      "body": "tessss",
+      "tags": [
+        "ldldlddld"
+      ],
+      "id": 5
+    }
+  ]
+}
